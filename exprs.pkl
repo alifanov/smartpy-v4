@@ -1,0 +1,24 @@
+(lp0
+((lp1
+S'func'
+p2
+aS'foo'
+p3
+a(lp4
+(lp5
+S'return'
+p6
+a(lp7
+S'+'
+p8
+aS'bar'
+p9
+aS'?'
+p10
+aaaa(lp11
+S"def foo(bar):\n    return bar + 2\n\n\n# class B:\n#     v1 = 2\n#     v2 = 3\n#\n#     def hello(self):\n#         a = 2\n#         d = 6\n#         c = a + d\n#         return 'Good bye {}'.format(c)\n"
+p12
+aS"def foo(bar):\n    return bar + 1\n\n\n# class A:\n#     v1 = 1\n#\n#     def hello(self):\n#         a = 1\n#         b = 2\n#         c = a + b\n#         return 'Hi, there {}'.format(c)\n"
+p13
+atp14
+a.
